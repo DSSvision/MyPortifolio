@@ -1,0 +1,35 @@
+:root {
+  /* Colors */
+  --color-primary-blue: #1D4E89;
+  --color-accent-orange: #FF7A00;
+  --color-light-blue: #A6D1E6;
+  --color-navy-text: #0A2540;
+  --color-soft-white: #FDF9F3;
+  --color-light-gray: #E4E4E4;
+
+  /* Font Sizes */
+  --font-xl: 40px;
+  --font-lg: 28px;
+  --font-md: 18px;
+  --font-base: 16px;
+  --font-sm: 14px;
+
+  /* Font Weights */
+  --font-bold: 700;
+  --font-semibold: 600;
+  --font-regular: 400;
+
+  /* Spacing & Sizes */
+  --btn-height: 45px;
+  --btn-width: 160px;
+  --input-height: 45px;
+  --input-width: 320px;
+  --card-width: 260px;
+  --avatar-size: 100px;
+  --skill-bar-width: 250px;
+  --skill-bar-height: 14px;
+
+  /* Border Radius */
+  --radius-sm: 6px;
+  --radius-md: 12px;
+}
